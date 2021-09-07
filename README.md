@@ -1,7 +1,8 @@
 # electron-live2d-desktop
 基于electron构建的看板娘PC端桌面挂件,项目资源属于本地加载。
 
-文件目录：
+
+文件目录结构：
 
 assets:live2d的相关文件。
 
@@ -14,13 +15,19 @@ main.js：electron入口文件。
 package.json：electron的配置文件。
 
 
+
+
 依赖包：
 
 electron
 
 electron-package
 
-开源项目来源：https://github.com/fghrsh/live2d_demo
+
+
+
+来自Live2D看板娘的前端HTML开源学习源码：https://github.com/fghrsh/live2d_demo
+
 
 
 特别推荐阅读：
